@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "TwinmotionToUnreal",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "TwinmotionToUnrealContent",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		}
+	]
+}
