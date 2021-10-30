@@ -9228,3 +9228,5 @@ Script Stack (0 frames):
 [2021.10.27-13.43.30:198][ 37]LogSavePackage: Moving '../../../../../../Users/munye/Documents/100SooPirates/Saved/MTM2_Auto1FFD62E6540F376977F21ECBE5F8F26D0.tmp' to '../../../../../../Users/munye/Documents/100SooPirates/Saved/Autosaves/Game/MTM2_Auto1.umap'
 [2021.10.27-13.43.30:200][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MTM2' took 0.089
 [2021.10.27-13.43.30:200][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2021.10.27-14.40.43:152][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.10.27-14.41.04:971][684]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3f36cfc8-0251-415f-bfaf-5086e52049c0}.
